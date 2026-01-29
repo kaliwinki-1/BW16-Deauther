@@ -1,0 +1,148 @@
+Skip to content
+Navigation Menu
+warwick320
+NovaX-5G-RTL8720dn-Bw16-Deauther
+
+Type / to search
+Code
+Issues
+5
+Pull requests
+Actions
+Projects
+Security
+Insights
+Owner avatar
+NovaX-5G-RTL8720dn-Bw16-Deauther
+Public
+warwick320/NovaX-5G-RTL8720dn-Bw16-Deauther
+Go to file
+t
+Name		
+warwick320
+warwick320
+Update README.md
+4d88547
+ · 
+last month
+Bins
+Add files via upload
+3 months ago
+Image_Tool
+Add Ameba image tool
+3 months ago
+UploadImageTool
+Add files via upload
+3 months ago
+img
+Add photo tutorial
+3 months ago
+LICENSE
+Update LICENSE
+3 months ago
+README.md
+Update README.md
+last month
+bitmap.h
+Bitmpa
+last month
+debug.h
+New ui
+4 months ago
+oled_deauther.ino
+increase delay time
+last month
+wifi_cust_tx.cpp
+New ui
+4 months ago
+wifi_cust_tx.h
+New ui
+4 months ago
+Repository files navigation
+README
+BSD-2-Clause license
+Source
+Link
+
+DISCLAIMER
+This tool has been made for educational and testing purposes only. Any misuse or illegal activities conducted with the tool are strictly prohibited.
+I am not responsible for any consequences arising from the use of this tool, which is done at your own risk.
+
+Firmware Upload Guide
+Setup
+Open Arduino IDE.
+Click File > Preferences.
+Add the following Additional Boards Manager URL:
+https://github.com/ambiot/ambd_arduino/raw/master/Arduino_package/package_realtek_amebad_index.json
+Go to Boards Manager and search for BW16.
+Download the Realtek Amebaa Boards (version 3.1.5) manager.
+How to Upload Firmware
+Open the .ino file in Arduino IDE.
+Click on Tools.
+Enable Auto Upload Mode and click Enable.
+Enable Standard Lib and select Arduino_STD_PRINTF.
+Click Upload to upload the firmware.
+Requirements
+SSD1306 Display
+4 Buttons
+BW16 Board
+Connections
+Buttons
+Up Button: PA27
+Down Button: PA12
+Select Button: PA13
+Back Button: PB2
+SSD1306 Display
+SDA: PA26
+SCL: PA25
+About
+RTL8720 BW16 5G 2.4G deauther
+
+Topics
+display deauthentication-attack 5g oled-display-ssd1306 deauthentication deauther oled-ssd1306 rtl8720dn deauther-5g
+Resources
+ Readme
+License
+ BSD-2-Clause license
+ Activity
+Stars
+ 74 stars
+Watchers
+ 4 watching
+Forks
+ 23 forks
+Report repository
+Releases 8
+BETA v4.0
+Latest
+on Feb 10
++ 7 releases
+Contributors
+3
+@warwick320
+warwick320
+@tinhnguyenxuan
+tinhnguyenxuan Nguyễn Xuân Tĩnh
+@LOCAL311755009
+LOCAL311755009
+Languages
+C
+76.7%
+ 
+C++
+19.9%
+ 
+Python
+3.4%
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+NovaX-5G-RTL8720dn-Bw16-Deauther/Image_Tool at main · warwick320/NovaX-5G-RTL8720dn-Bw16-Deauther
