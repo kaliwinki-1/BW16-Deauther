@@ -1,0 +1,14 @@
+Windows installation
+First Download and Install the CH340G driver for RTL8720DN
+
+Download and unzip the Firmware and Flasher
+
+Open the flasher and import the firmware and then flash
+
+Connect to the WiFi=Ereshkigal Password=masukangin
+
+Open the browser http://192.168.1.1
+
+Then you can start the attack
+
+Credit: Ereshkigal
